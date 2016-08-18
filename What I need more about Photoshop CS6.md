@@ -1,4 +1,4 @@
-Photoshop CS6 is one of software that I am using. Though it is really good software, it still has its own advantages and disadvantages.
+Photoshop CS6 is one of softwares that I am using. Though it is really good software, it still has its own advantages and disadvantages.
 
 
 Next I will give a brief description about this App. PhotoshopCS6 is a kind of application in the computer graphics with the function of photo editing and digital painting. It is used by some of photo makers or editors. It has not only almost all the essential features which the old versions of Photoshop applications have in its history that including patching picture, removing certain part of pictures and matching the colors. It also has some new features such as layer search, info tip, drawing dotted line, merging picture-layer masking-out and so on. These are the advantages compared to photoshopCS5. The layer search avoided you looking for one picture-layer from many lays, saving time and not letting you have a headache again. With info tip you can see your picture completely, avoiding opening and closing you information menu again and again.
